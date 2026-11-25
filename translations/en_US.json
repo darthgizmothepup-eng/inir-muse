@@ -1,0 +1,19 @@
+{
+    "1. Install the Muse Gadget SDK for Linux from gadgets.muse.ai using your own SDK token.": "1. Install the Muse Gadget SDK for Linux from gadgets.muse.ai using your own SDK token.",
+    "2. Pair this computer in the Muse app: Settings, Devices, Developer mode, Add Device.": "2. Pair this computer in the Muse app: Settings, Devices, Developer mode, Add Device.",
+    "3. Press Check again.": "3. Press Check again.",
+    "Check again": "Check again",
+    "Connected": "Connected",
+    "Could not check the Muse Gadget service.": "Could not check the Muse Gadget service.",
+    "Gadget SDK not found": "Gadget SDK not found",
+    "Gadget service is not running": "Gadget service is not running",
+    "Message Muse": "Message Muse",
+    "Muse": "Muse",
+    "Muse could not be reached.": "Muse could not be reached.",
+    "Muse is thinking…": "Muse is thinking…",
+    "No messages yet. Say hello to your Muse.": "No messages yet. Say hello to your Muse.",
+    "Not checked yet": "Not checked yet",
+    "Open gadgets.muse.ai": "Open gadgets.muse.ai",
+    "Send": "Send",
+    "Set up the Muse Gadget SDK": "Set up the Muse Gadget SDK"
+}

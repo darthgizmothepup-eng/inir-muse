@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24" fill="none">
+  <!-- Original four-point sparkle with a small companion sparkle. -->
+  <path d="M10.2 2.6 L12.1 8.9 L18.4 10.8 L12.1 12.7 L10.2 19 L8.3 12.7 L2 10.8 L8.3 8.9 Z" fill="currentColor"/>
+  <path d="M18.6 15.4 L19.3 17.7 L21.6 18.4 L19.3 19.1 L18.6 21.4 L17.9 19.1 L15.6 18.4 L17.9 17.7 Z" fill="currentColor"/>
+  <circle cx="18.9" cy="4.1" r="1.1" fill="currentColor"/>
+</svg>
